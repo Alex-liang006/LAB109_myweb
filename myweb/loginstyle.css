@@ -1,0 +1,51 @@
+body{
+    background: url('../image/wallhaven-5w26x1_1920x1080.png');
+    background-repeat: no-repeat;
+    background-size: auto 151%;
+
+}
+
+#login{
+    width: 30%;
+    height: auto;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    background: #00000090;
+    padding: 20px 50px;
+}
+#login h1{
+    color: white;
+}
+#login .form{
+    margin-top: 50px;
+}
+#login .form .item{
+    margin-top: 15px;
+}
+#login .form .item span{
+    color: white;
+    font-size: 18px;
+
+}
+#login .form .item input{
+    width: 180px;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 2px solid #fff;
+    padding: 5px 10px;
+    background: #ffffff00;
+    color: #ffffff;
+}
+#login button{
+    margin-top: 15px;
+    width: 200px;
+    heigh: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    color: white;
+}
